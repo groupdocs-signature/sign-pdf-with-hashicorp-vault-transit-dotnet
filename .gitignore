@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.DotSettings.user
+
+# Licence files: never commit a real licence
+*.lic
+
+# Signed output of local runs
+Result/
